@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end and plan to pick others along the way.
 - 💞️ I’m looking to grow with community of like minds and learn from them.
 - 📫 How to reach me on Whatsapp — +2348072139251.
-- ⚡ Fun fact: I love reading and proudly foodie.
+- ⚡ Fun fact: I love reading and proudly a foodie.
 
 <!---
 Chikairo/Chikairo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
